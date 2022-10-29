@@ -115,7 +115,7 @@ class AuthController extends Controller
 
 
 
-        return $this->sendResponse($success, 'User register successfully.');
+        return $this->sendResponse($success, 'User registered successfully.');
 
     }
 
